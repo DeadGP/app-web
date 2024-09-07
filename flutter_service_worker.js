@@ -8,8 +8,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "645071a2c5b9ce6bec1057bbf825f644
 "assets/AssetManifest.json": "7d7b9e0cbf2d4faf07e04c72c1fd58bd",
 "assets/assets/trayec.jpg": "800313afe66c62f97cf4fe572388908c",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "d05336a28e60b1abb9d619f329aee4f1",
-"assets/NOTICES": "8d26ea6d1e0bc4995957c9ebbbe6e6c3",
+"assets/fonts/MaterialIcons-Regular.otf": "213ead556766ccafb782b56044fcddaf",
+"assets/NOTICES": "28d6f1129bdcb6d11b7277d00219e865",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "canvaskit/canvaskit.js": "738255d00768497e86aa4ca510cce1e1",
@@ -24,16 +24,16 @@ const RESOURCES = {"assets/AssetManifest.bin": "645071a2c5b9ce6bec1057bbf825f644
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "ccc667afc2b6f3af56cf7bec62fc0ea0",
+"flutter_bootstrap.js": "b6e4340393ef318672c5cdd7446eedfa",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "82a6ed5dee7afa8cc15752e013c20788",
-"/": "82a6ed5dee7afa8cc15752e013c20788",
-"main.dart.js": "28bb9aabef666550c416b4417373221d",
-"manifest.json": "3f9f46d43b9a25da68f5dd4800d5ed6d",
-"version.json": "c2a08cda2a1e690bfed5ce9fc4d9e5b1"};
+"index.html": "85c0851e321156103c86f3ba4cc8e923",
+"/": "85c0851e321156103c86f3ba4cc8e923",
+"main.dart.js": "c63b23a4a5fbdaa4a672f3d43e280976",
+"manifest.json": "5dff8fba5529104fbd03816d1015e076",
+"version.json": "4a8db3ba4aefef11dc97b0d1e18a6885"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
