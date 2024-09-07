@@ -1,0 +1,12 @@
+image: ghcr.io/cirruslabs/flutter:stable
+
+pages:
+  stage: deploy
+  script:
+    - flutter build web
+    - cp -r build/web public
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
